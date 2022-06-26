@@ -1,7 +1,8 @@
 # Audio-transcription-app
 Audio transcription is an app for converting speech to text on an online meeting.
 
-# Design pattern: It must be MVVM please 
+# Design pattern: MVVM
+# Language: kotlin
 
 # Rules of engagement:
 1. Please, always push your specific feature branch first, and ensure it is tested properly before it is merged to main branch.
